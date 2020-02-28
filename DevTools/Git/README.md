@@ -14,10 +14,10 @@
 
 
 ## Reference
-* [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet)
+* [Git-Cheat-Sheet]()
 
-* [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
-* [Git 指南](https://git-scm.com/book/zh/v1/%E8%B5%B7%E6%AD%A5)
+* [Git Community Book 中文版]()
+* [Git 指南]()
 * [Git 权威指南](http://www.worldhello.net/gotgit/#git)
 * [Git 参考手册](http://gitref.justjavac.com/)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
